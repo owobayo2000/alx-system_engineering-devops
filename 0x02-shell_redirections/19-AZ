@@ -1,2 +1,3 @@
 #!/bin/bash
-tr 'Ac' < input.txt | 'Ze' > output.txt
+tr 'Ac' 'Ze' < input.txt > output.txt
+
